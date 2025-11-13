@@ -1,3 +1,9 @@
+ddm (0.2.1-0depian1) unstable; urgency=medium
+
+  * 修复构建
+
+ -- lhdjply <lhdjply@126.com>  Thu, 18 Sep 2025 11:41:30 +0800
+
 ddm (0.2.1) unstable; urgency=medium
 
   * chore: update license configuration to REUSE specification
